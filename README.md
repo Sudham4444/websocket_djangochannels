@@ -17,39 +17,39 @@ This is a simple chat application built with Django Channels. It demonstrates re
 
 ## Installation
 
-1. *Clone the repository:*
+1. **Clone the repository:**
 
     ```bash
     git clone https://github.com/Sudham4444/websocket_djangochannels.git
     cd websocket_djangochannels
     
 
-2. *Create and activate a virtual environment:*
+2. **Create and activate a virtual environment:**
 
     ```bash
     python -m venv env
     .\env\Scripts\activate
     
 
-3. *Install the dependencies:*
+3. I**nstall the dependencies:**
 
     ```bash
     pip install -r requirements.txt
     
 
-4. *Apply migrations:*
+4. **Apply migrations:**
 
     ```bash
     python manage.py migrate
     
 
-5. *Run the development server:*
+5. **Run the development server:**
 
     ```bash
     python manage.py runserver
     
 
-6. *Access the application:*
+6. **Access the application:**
 
     Open your web browser and go to `http://127.0.0.1:8000/` to start using the chat application.
 
